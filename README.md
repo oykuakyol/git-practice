@@ -1,2 +1,2 @@
-# git-egitim
-Notes, exercises, and essays I used while learning Git/GitHub.
+# git-practice
+Sharpening my Git and GitHub skills – practical notes and advanced exercises.
