@@ -1,1 +1,3 @@
-Bu satır Feature A tarafından güncellendi.
+
+Bu satır Feature B tarafından güncellendi.
+
