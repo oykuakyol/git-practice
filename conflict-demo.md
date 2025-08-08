@@ -1,1 +1,1 @@
-Bu satır herkes tarafından görülebilir.
+Bu satır Feature B tarafından güncellendi.
