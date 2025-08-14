@@ -10,3 +10,4 @@ Sharpening my Git and GitHub skills – practical notes and advanced exercises. 
 - Creating and merging pull requests
 
 # Test Pull Request  
+This PR was created to learn and practice the pull request process on Git and GitHub. Code changes are for testing purposes only.
